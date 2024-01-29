@@ -77,7 +77,6 @@ The Best Poster awards will recognize the most outstanding poster contributions.
 ### CHAIRS
 
 * Nan Cao, *Tongji University*
-* Barbora Kozlikova, *Masaryk University*
 * Renata Raidou, *TU Wein*
 * Wesley Willett, *University of Calgary*
 * Jiazhi Xia, *Central South University*	
